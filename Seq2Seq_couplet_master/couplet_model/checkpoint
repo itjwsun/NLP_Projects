@@ -1,0 +1,4 @@
+model_checkpoint_path: "D:\\PyCharm\\nn\\NLP\\couplet_model\\model_1500"
+all_model_checkpoint_paths: "D:\\PyCharm\\nn\\NLP\\couplet_model\\model_500"
+all_model_checkpoint_paths: "D:\\PyCharm\\nn\\NLP\\couplet_model\\model_1000"
+all_model_checkpoint_paths: "D:\\PyCharm\\nn\\NLP\\couplet_model\\model_1500"
